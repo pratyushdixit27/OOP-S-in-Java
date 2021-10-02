@@ -1,5 +1,4 @@
-![images (8)](https://user-images.githubusercontent.com/83740557/135706038-fd46c3d3-4634-4ef9-a6e4-30337905a4ae.jpg)
-# OOP-S-in-Java
+# OOP-S-in-Java  [images (8)](https://user-images.githubusercontent.com/83740557/135706038-fd46c3d3-4634-4ef9-a6e4-30337905a4ae.jpg)
 Introduction to Object Oriented Programming System in JAVA.
 Explanning the concept of OOPS.
 What is Programming Paradigm
