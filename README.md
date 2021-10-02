@@ -1,4 +1,4 @@
-![images (8)](https://user-images.githubusercontent.com/83740557/135706091-e1a506ca-e627-463a-8ec0-aa31544fafd3.jpg)
+#OOPS in JAVA
 
 Introduction to Object Oriented Programming System in JAVA.
 Explanning the concept of OOPS.
