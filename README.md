@@ -13,3 +13,6 @@ Methods: It is a set of code which performs a particular tasks. The main advanta
 
 
 ![052016_0704_ObjectsandC5](https://user-images.githubusercontent.com/83740557/135739704-442d7d62-cb2b-440a-8c13-bd6354806bf9.jpg)
+
+Polymorphism: It consists of two words Poly means many and morphism means forms. It refers to the ability of OOPs programming languages to differentiate between entities with the same name efficiently. This is done by Java with the help of the signature and declaration of these entities. It is of two types: Compile time polymorphism (achieved by Method Overloading) and run time polymorphism(achieved by Method Overriding).
+
