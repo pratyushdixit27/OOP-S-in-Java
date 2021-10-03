@@ -1,0 +1,17 @@
+public class VarArgs 
+{
+public void show(int x)
+{
+    System.out.println("Integer Method");
+}
+public void show(int... x)
+{
+    System.out.println("Var-Arguments");
+}
+public static void main(String[]args){
+    VarArgs a = new VarArgs();
+    a.show(10,20,30);  // Var-Arguments
+    a.show(10);    // Integer Method
+    a.show();        // Var-Arguments
+      }
+}
