@@ -1,0 +1,13 @@
+// Automatic Promotion: One types promote to another if no matching data type is found
+public class Test{
+public void show(int a){
+System.out.println("Int Method");
+}
+public void show(String a){
+System.out.println("String Method");
+}
+public static void main(String[]args){
+Test t=new Test();
+t.show('a');
+}
+}
