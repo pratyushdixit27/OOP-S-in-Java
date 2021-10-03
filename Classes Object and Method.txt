@@ -1,0 +1,15 @@
+//Class Objects and Methods in Java
+
+public class Animal  // Class 
+{
+public void eat()    // Method
+ {
+System.out.println("I love eating");
+}
+class Tiger
+{
+public static void main(String[]args){
+Animal a = new Animal();   // Object creation using new keyword
+a.eat();                 //calling eat method
+  }
+}
