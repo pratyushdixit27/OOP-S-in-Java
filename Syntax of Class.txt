@@ -1,0 +1,5 @@
+//Syntax of Class
+access modifier Class ClassName
+{
+    // code
+}
