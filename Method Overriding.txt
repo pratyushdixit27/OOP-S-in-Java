@@ -1,0 +1,19 @@
+//  Method Overriding: Methods of same name in two different class with same arguments using Inheritance
+
+class Ddemo{
+    public void method1(){
+        System.out.println("I am in method 1");
+    }
+}
+class Mauk extends Ddemo{
+    public void method1(){
+        System.out.println("I am in method 2");
+    }
+    public static void main(String[]args){
+        Ddemo e = new Ddemo(); // Creating object of Ddemo class
+        e.method1();          // Calling method of Ddemo class
+
+        Mauk m = new Mauk();  // Creating object of Mauk class
+        m.method1();         // Calling method of class Mauk
+    }
+}
